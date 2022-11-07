@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,400&display=swap');
+@import "reset.css";
+@import "variables.css";
+/*compoents */
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+/*screen */
+@import "screen/login.css";
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    height: 1000vh;
+}
+
