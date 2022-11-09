@@ -15,5 +15,44 @@
 }
 
 .nav__link {
+    position: relative;
     color: #2e363e;
+}
+
+
+.nav__noticification {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+}
+
+.nav__notice {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 2.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 28px;
+    bottom: 24px;
+    
+}
+
+.nav-position {
+    position: relative;
+}
+
+.nav-gear__notice {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 2.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 10px;
+    bottom: 30px;
 }
