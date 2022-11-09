@@ -7,10 +7,12 @@
 @import "components/screen-header.css";
 @import "components/user-componet.css";
 @import "components/badge.css";
+@import "components/icon-row.css";
 /*screen */
 @import "screen/login.css";
 @import "screen/friends.css";
 @import "screen/find.css";
+@import "screen/more.css";
 body {
     height: 140vh;
     color: #2e363e;
