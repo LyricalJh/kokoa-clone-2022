@@ -15,4 +15,5 @@
 
 .screen-header__icons span {
     margin-left: 25px;
+    justify-content: space-between;
 }
